@@ -1,7 +1,7 @@
 ## NIST.SP1300_ja_ver.happon
 
 ### これは何？
-NIST.SP1300の日本語訳です。
+CSF2.0 Cyber Security Framework2.0 のクイックスタートガイドNIST.SP1300の日本語訳です。
 
 ### なぜ作ったか
 IPAでも同様の資料が掲載されていますが、理解が困難でしたので再作成しました。
